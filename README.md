@@ -1,2 +1,2 @@
-# SlowLoriax
-SlowLoris implementation in docker for Honours Research
+# Backdooriax
+Backdoor implementation in docker for Honours Research
